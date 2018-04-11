@@ -1,4 +1,4 @@
-ds_example[D[D[D[D[D[D[D[D[Cprojt[3~[3~[C[_ex
+Project using a template
 ==============================
 
 Data science project example
